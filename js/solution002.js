@@ -13,7 +13,7 @@
   }
 ;*/
 //above is my  sollution
-
+  
 //this is how it should be done
 const rps = (p1, p2) => {
   if (p1 === p2) return "Draw!";
