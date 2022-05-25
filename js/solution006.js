@@ -3,7 +3,7 @@ function squareArea(A){
  
     /*find area of the square encasing 
     the arc*/
-  //length of radius =....  arclength(A)=(90/360)*(2pie)
+  //length of Radius =....  arclength(A)=(90/360)*(2pieR)
   let radius = ((A*360/90)/(2*Math.PI));
  
   let area = radius*radius

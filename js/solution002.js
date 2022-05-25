@@ -1,6 +1,6 @@
 //Rock Paper Scissors
 /*Let's play! You have to return which player won! In case of a draw return Draw!.*/
-/*const rps = (p1, p2) => {
+/*
     const rps = (p1, p2) => {
         if ((p1 === 'paper' && p2 === 'rock') || (p1 === 'rock' && p2 ==='scissors') || (p1 ==='scissors' && p2 === 'paper')){
             return 'Player 1 won!'
@@ -10,9 +10,9 @@
           return 'Draw!'
         }
         };
-  }
-;*/
-//above is my  sollution
+  
+*/
+//above is my  solution
   
 //this is how it should be done
 const rps = (p1, p2) => {
